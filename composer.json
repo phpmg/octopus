@@ -1,0 +1,18 @@
+{
+  "name": "phpmg/octopus",
+  "require-dev": {
+    "phpunit/phpunit": "^5.3"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "PhpMg\\Octopus\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "PHPMG",
+      "email": "contact@phpmg.com"
+    }
+  ]
+}
